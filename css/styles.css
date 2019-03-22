@@ -9,12 +9,15 @@ h1 {
 }
 
 .quicknav {
-  margin: 12px;
+  margin: 50px;
   border: 2px solid #e20d82;
   padding: 4px;
   text-align: center;
 }
 
+.quicknav h3 {
+  font-size: 22px;
+}
 
 .bq01  {
   float: left;
@@ -44,6 +47,7 @@ p {
 .ul01 {
   font-family: 'Rosario', sans-serif;
   list-style-type: none;
+  text-align: center;
 }
 
 #copyright {
