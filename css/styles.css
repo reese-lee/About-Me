@@ -85,6 +85,10 @@ p {
   font-family: 'Rosario', sans-serif;
 }
 
+.row img {
+  margin: 10px;
+}
+
 #copyright {
   font-family: 'Fugaz One', cursive;
   text-align: center;
