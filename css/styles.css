@@ -76,6 +76,10 @@ p {
   text-align: center;
 }
 
+.gallery img {
+  width: 100%;
+}
+
 font-family: 'Overpass', sans-serif;
 font-family: 'Vidaloka', serif;
 font-family: 'Neuton', serif;
