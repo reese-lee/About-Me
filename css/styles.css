@@ -18,6 +18,7 @@ header.nav {
 h1 {
   font-family: 'Fugaz One', cursive;
   text-align: center;
+  font-size: 55px;
 }
 
 .quicknav {
@@ -33,17 +34,18 @@ h1 {
   border: 2px solid #e20d82;
   padding: 40px;
   text-align: center;
+  font-size: 30px;
 }
 
 .quicknav h3 {
   font-size: 22px;
 }
 
-.bq01  {
-  float: left;
+.bq01, .bq02  {
   font-family: 'Neuton', serif;
   margin-right: 20%;
   margin-left: 20%;
+  color: #e20d82;
 }
 
 .bq02 {
@@ -54,6 +56,10 @@ h1 {
 
 .img {
   width: 100%;
+}
+
+#name {
+  font-size: 30px;
 }
 
 .panel {
@@ -88,12 +94,28 @@ p {
   width: 100%;
 }
 
-font-family: 'Overpass', sans-serif;
-font-family: 'Vidaloka', serif;
-font-family: 'Neuton', serif;
+#important {
+  font-weight: bold;
+}
 
-font-family: 'Julius Sans One', sans-serif;
-font-family: 'Fugaz One', cursive;
+/* Testing image gallery CSS */
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
 
-font-family: 'Fredericka the Great', cursive;
-font-family: 'Major Mono Display', monospace;
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
