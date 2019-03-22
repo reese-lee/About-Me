@@ -35,6 +35,11 @@ h1 {
 .img02 {
   float: right;
   width: 40%;
+  margin: 10px 10px 10px 10px;
+}
+
+.panel {
+  margin: 5px;
 }
 
 h2, h3 {
