@@ -5,8 +5,9 @@ header {
 }
 
 #mainhead {
-  font-size: 90px;
-  color: #c93461;
+  font-size: 150px;
+  color: #e20d82;
+
 }
 
 header.nav {
@@ -16,6 +17,7 @@ header.nav {
 
 h1 {
   font-family: 'Fugaz One', cursive;
+  text-align: center;
 }
 
 .quicknav {
@@ -40,10 +42,14 @@ h1 {
 .bq01  {
   float: left;
   font-family: 'Neuton', serif;
+  margin-right: 20%;
+  margin-left: 20%;
 }
 
 .bq02 {
   font-family: 'Neuton', serif;
+  margin-right: 20%;
+  margin-left: 20%;
 }
 
 .img {
@@ -56,6 +62,7 @@ h1 {
 
 h2, h3 {
   font-family: 'Fugaz One', cursive;
+  color: #e20d82;
 }
 
 p {
