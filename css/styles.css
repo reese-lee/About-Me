@@ -6,6 +6,7 @@ header {
 
 #mainhead {
   font-size: 90px;
+  color: #c93461;
 }
 
 header.nav {
@@ -45,7 +46,7 @@ h1 {
   font-family: 'Neuton', serif;
 }
 
-.img01 {
+.img {
   width: 100%;
 }
 
