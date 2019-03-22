@@ -1,12 +1,16 @@
 header {
-  font-family: 'Vidaloka', serif;
+  font-family: 'Julius Sans One', sans-serif;
   font-size: 180px;
 }
+
+h1 {
+
+}
+
 
 font-family: 'Overpass', sans-serif;
 font-family: 'Vidaloka', serif;
 font-family: 'Neuton', serif;
-font-family: 'Monoton', cursive;
 
 font-family: 'Julius Sans One', sans-serif;
 font-family: 'Fugaz One', cursive;
