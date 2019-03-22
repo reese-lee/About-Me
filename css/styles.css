@@ -1,7 +1,16 @@
 header {
   font-family: 'Fugaz One', cursive;
-  font-size: 90px;
+  font-size: 20px;
   text-align: center;
+}
+
+#mainhead {
+  font-size: 90px;
+}
+
+header.nav {
+  font-size: 20px;
+  font-family: 'Neuton', serif;
 }
 
 h1 {
