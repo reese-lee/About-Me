@@ -2,7 +2,7 @@
 
 #### _This is an About Page for Reese Lee. March 22, 2019._
 
-#### _ link _
+#### _ https://reese-lee.github.io/portfolio-landing-page/ _
 
 #### By _Reese Lee_
 
