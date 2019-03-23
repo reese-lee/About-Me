@@ -7,7 +7,6 @@ header {
 #mainhead {
   font-size: 150px;
   color: #e20d82;
-
 }
 
 header.nav {
@@ -102,4 +101,12 @@ p {
   font-weight: bold;
 }
 
-/* Testing image gallery CSS */
+.rando {
+  float: left;
+  font-family: 'Fugaz One', cursive;
+  margin: 50px;
+  border: 2px solid #e20d82;
+  padding: 40px;
+  text-align: center;
+  font-size: 30px;
+}
