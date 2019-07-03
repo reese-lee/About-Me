@@ -1,4 +1,4 @@
-# [Portfolio Page](https://reese-lee.github.io/portfolio-landing-page)_
+# [Portfolio Page](https://reese-lee.github.io/portfolio-landing-page)
 
 #### _This is an About Page for Reese Lee. March 22, 2019._
 
